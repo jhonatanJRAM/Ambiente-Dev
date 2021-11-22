@@ -1,0 +1,27 @@
+    HTML - hypertext markup language(Linguagem de marcação de hipertexto)
+
+    HTML é uma linguagem de marcação,pois sua estrutura é composta por uma serie de tags(marcas), e ela 
+serve para descrever uma pagina web(site).
+
+    Não pode ser considerada uma linguagem de programação, pois não possue os recursos de estrutura 
+condicionais ou de controle.
+
+    Foi criada originalmente com o proposito de melhorar a comunicação.
+
+     --------------- ---------------
+    |  HTML         |  1991         |
+    |  HTML+        |  1993         |
+    |  HTML 2.0     |  1995         |
+    |  HTML 3.2     |  1997         |
+    |  HTML 4.01    |  1999         |
+    |  XHTML        |  2000         |
+    |  HTML5        |  2012         |
+     --------------- ---------------
+
+    Tags são "palavras-chave" cercadas por conchetes angulares, por exemplo <html>.
+
+    Tags geralmente se apresentam em pares, como <body> </body> sendo que:
+a primeira tag em um par é a tag inicial ou de abertura, e a segunda é a tag final ou de fechamento.
+
+Existem tags especias chamadas de abertas ou vazias, Elas não possuem fechamento.
+Por exemplo:<br>, <a>.
