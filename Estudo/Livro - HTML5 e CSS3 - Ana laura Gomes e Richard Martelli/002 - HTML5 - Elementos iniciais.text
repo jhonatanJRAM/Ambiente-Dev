@@ -1,3 +1,5 @@
+22/11/2021 - ??:??
+   
     HTML - hypertext markup language(Linguagem de marcação de hipertexto)
 
     HTML é uma linguagem de marcação,pois sua estrutura é composta por uma serie de tags(marcas), e ela 
@@ -25,3 +27,31 @@ a primeira tag em um par é a tag inicial ou de abertura, e a segunda é a tag f
 
 Existem tags especias chamadas de abertas ou vazias, Elas não possuem fechamento.
 Por exemplo:<br>, <a>.
+
+23/11/2021 - 21:37
+
+                        CONHECENDO  A ESTRUTURA DE UMA PAGINA HTML
+
+
+    <!DOCTYPE>  -  É uma declaração do tipo de documento, atravez dela você esta dizendo a qualquer navegador o tipo de documento e a versão utilizada, por essa razão deve ser a primeira coisa a ser iserida.
+
+    <html> - É um elemento que informa o navegador que o documento em questão é um documento HTML,
+    este elemento representa a raiz de um documento HTML e se comporta como um recipiente para outras tags, possue uma  tag inicial <html> e uma tag final </html>
+
+    <head> - É o elemento  responsavel por indicar os elementos do cabeçalho da pagina do seu navagador, dentro desse elemento é possivel adicionar scripts, titulo para documento, instruir o navegador de onde encontrar folhas de estilo e informar metas, entre outros.
+
+        dentro dessa seção  podem ser adicionadas as seguintes tags:
+
+        <title> - define o titulo do documento;
+
+        <style> - define informação de estilo para um documento html;
+
+        <meta> - tag que contem elementos utilizados para especificar o comportamento e a descrição da pagina, as palavras-chave, autor do documento, ultima modificação, entre outros metadados;
+
+        <link> - mais usado para buscar as orientações de estilo de pagina em outros arquivos;
+
+        <script> - usado para definir um script do lado do cliente, como um JavaScript. os usos mais comuns para JavaScript são manipulação de imagens, validação de documento e alteração dinâmica do conteúdo;
+
+        <noscript> - Define um conteudo alternativo para usuarios que tem script com deficiência ou que tem navegadores que não suportam script;
+
+        <base> - Especifica  uma URL padrão e um tipo de abertura de janela para os links que estiverem contidos naquela página;
